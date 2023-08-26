@@ -3,14 +3,8 @@ Daniel Brandes
 
 --------------
 
-Diese persoenliche Homepage ist nichtkommerzieller Natur, ihr Betreiber verkauft und sammelt hier nichts. 
-Jedoch verwendet sie externe, der US-Legislative unterworfene Infrastrukturen gewinnorientierter Unternehmen 
-und verlinkt solche, auf deren Datenerhebungs-Prozesse er keinerlei Einfluss hat. DNS-vermittelt durch 
-NearlyFreeSpeech sind dies namentlich GitHub Pages und iCloud Mail (Microsoft und Apple). 
+Diese persoenliche Homepage ist nichtkommerzieller Natur, ihr Betreiber verkauft und sammelt hier nichts. Jedoch verwendet sie externe, der US-Legislative unterworfene Infrastrukturen gewinnorientierter Unternehmen und verlinkt solche, auf deren Datenerhebungs-Prozesse er keinerlei Einfluss hat. DNS-vermittelt durch NearlyFreeSpeech sind dies namentlich GitHub Pages und iCloud Mail (d.h. Microsoft und Apple). 
 
-Inhaltliche Erzeugnisse jedweden Mediums und Formats jenseits dieser infrastrukturellen Ebene verbleiben 
-wiederum im geistigen Eigentum und sind als solches lediglich zu nichtkommerziellen Zwecken unter 
-Autorennennung zu vervielfaeltigen. 
 
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
