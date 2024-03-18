@@ -1,6 +1,9 @@
 User-agent: *
 Allow: /
 
+User-agent: TurnitinBot
+Disallow: /
+
 User-agent: GPTBot
 Disallow: /
 
